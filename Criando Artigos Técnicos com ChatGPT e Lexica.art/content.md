@@ -18,7 +18,13 @@ Imagine se os agricultores pudessem prever quando suas plantas precisam de água
 
 Olha só, existem muitas maneiras de usar o Machine Learning na agricultura! Ele ajuda os agricultores de tantas maneiras incríveis que é difícil listar todas. Por exemplo, além de prever o clima, esses algoritmos podem até mesmo sugerir o momento certo para plantar ou colher, maximizando os rendimentos. E você sabia que os drones podem tirar fotos das plantações e, com a ajuda do Machine Learning, detectar problemas como pragas ou doenças? É como se fosse um olho superdetalhado que ajuda os agricultores a cuidarem de suas plantinhas antes mesmo de qualquer problema aparecer!
 
-Gostou de saber como a tecnologia pode ajudar na agricultura? Fique por dentro de mais novidades sobre data science e machine learning me seguindo nas redes sociais!
+Gostou de saber como a tecnologia pode ajudar na agricultura? Ele foi gerado por inteligência artificial, mas foi revisado por alguém 100% humano😁
 
+Fique por dentro de mais novidades sobre data science e machine learning me seguindo nas redes sociais!
+
+
+Fontes:
+Ilustração de capa: gerada pela lexica.art
+Conteúdo gerado por: ChatGPT e revisões humanas
 
 #AgriculturaInteligente #DataScienceNaRoça #TechNoCampo
