@@ -6,7 +6,9 @@ Bem-vindo ao mundo da Agricultura 4.0, onde os algoritmos são tão importantes 
 
 **O que é Machine Learning**
 
-Você sabia que a inteligência artificial pode aprender como a gente? É tipo quando você ensina seu cachorro a buscar uma bola. O Machine Learning é isso, mas para computadores. Eles podem aprender a fazer coisas legais sozinhos, só precisam de um empurrãozinho nosso!
+Então, vamos imaginar que você tenha um cachorro super esperto que adora brincar de buscar a bolinha. No início, ele não tem ideia do que fazer, mas toda vez que você joga a bola e ele traz de volta, ele aprende um pouquinho. É como se ele estivesse "aprendendo" a buscar a bola, entendeu? Agora, vamos pensar em computadores fazendo a mesma coisa, só que em vez de bolinhas, eles aprendem com um montão de dados e exemplos que a gente dá a eles. 
+
+Essa é a mágica do Machine Learning: ensinar os computadores a fazerem coisas super incríveis, como reconhecer fotos ou até mesmo prever o clima, sem que a gente precise dizer exatamente o que fazer em cada situação. É tipo dar um "empurrãozinho" e eles se virarem sozinhos! Bacana, né?
 
 **Como o Machine Learning pode contribuir para o agronegócio?**
 
