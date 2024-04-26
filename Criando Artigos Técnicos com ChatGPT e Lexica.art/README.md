@@ -11,32 +11,25 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 📄**Prompts e ferramentas**    
 **ChatGPT:**                           
-| **Ação** |  **Prompt** |
-|----------|-------------|
-| título   | Crie 10 headlines para nomes de artigos sobre o assunto Machine Learning - Como o machine learning pode contribuir para o agronegócio?  | 
-| conteúdo |Comporte-se como um escritor de artigos tech Data Science e escreva o
-artigo atendendo as regras abaixo:
-{REGRAS}
-No máximo 5 linhas por blocos de explicação
-Me explique de uma maneira informal como se eu fosse uma criança de 10 anos
-Os blocos que serão criados estão abaixo:
-O que é Machine Learning
-Como o machine learning pode contribuir para o agronegócio?
-Aplicações e Técnicas de Machine Learning na Agricultura
 
-- Faça um call to action para as minhas redes sociais
-- Coloque 3 hashtags que façam sentido
-
-Ilustração de capa: gerada pela lexica.art
-Conteúdo gerado por: ChatGPT e revisões humanas |
-
+| ***Ação**| **Prompt**                                                                |
+|----------|---------------------------------------------------------------------------|
+|  título  |Crie 10 headlines para nomes de artigos sobre o assunto Machine Learning - Como o machine learning pode contribuir para o agronegócio?                                                                    |
+| Dado 4   | > Comporte-se como um escritor de artigos tech Data Science e escreva o  |
+|          |   artigo atendendo as regras abaixo:                                      |
+|          | {REGRAS}                                                                  |
+|          | > No máximo 5 linhas por blocos de explicação                             |
+|          | > Me explique de uma maneira informal como se eu fosse uma criança de 10 anos |
+|          | > Os blocos que serão criados estão abaixo:                               |
+|          |   - O que é Machine Learning                                             |
+|          |   - Como o machine learning pode contribuir para o agronegócio?           |
+|          |   - Aplicações e Técnicas de Machine Learning na Agricultura              |
+|          | - Faça um call to action para as suas redes sociais                       |
+|          | - Coloque 3 hashtags que façam sentido                                    |
+|          |Ilustração de capa: gerada pela lexica.art                                 |
+|          |Conteúdo gerado por: ChatGPT e revisões humanas                            |
 
 
-
-
-
-Ilustração de capa: gerada pela lexica.art
-Conteúdo gerado por: ChatGPT e revisões humanas
 
 **Lexica.art:**
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
