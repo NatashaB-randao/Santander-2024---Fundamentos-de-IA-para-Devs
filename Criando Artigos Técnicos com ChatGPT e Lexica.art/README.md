@@ -1,4 +1,4 @@
-```markdown
+
 # Projeto artigo técnico gerado por I.A.s
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
@@ -43,4 +43,3 @@ Conteúdo gerado por: ChatGPT e revisões humanas
 
 🛠️ **Instruções de execução**
 - Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice, indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da DIO.
-```
