@@ -1,5 +1,6 @@
 # Projeto Podcast Gerado por I.A.s
 
+![Podcast](DataMasters.png)
 
 ℹ️ **NOTA:** Este repositório foi desenvolvido durante um bootcamp na plataforma Digital Innovation One.
 
@@ -24,6 +25,10 @@ Projeto com o objetivo de criar um podcast utilizando ferramentas de IA através
 - [Link da Aula](https://web.dio.me/lab/criando-um-podcast-com-ias/learning/3f37b3c7-b680-482e-8994-1644f1045a63?back=/track/santander-2024-fundamentos-de-ia-para-devs) 
 - [Modelo no Notion](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f)
 - [Editor de áudio](https://www.capcut.com/pt-br/)
+
+🎙️ **Descrição do Podcast**
+
+O nome do podcast que eu criei é DataMasters - A Missão dos Cientistas de Dados. É um podcast de tecnologia, focado em Data Science.
 
 🛠️ **Instruções de Execução**
 
