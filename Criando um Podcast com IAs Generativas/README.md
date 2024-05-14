@@ -1,6 +1,6 @@
 # Projeto Podcast Gerado por I.A.s
 
-![Podcast](DataMasters.png)
+<img src="DataMasters.png" alt="Podcast" width="300">
 
 ℹ️ **NOTA:** Este repositório foi desenvolvido durante um bootcamp na plataforma Digital Innovation One.
 
